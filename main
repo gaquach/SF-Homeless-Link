@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<title>SF Homeless Link</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body style=font-family:Cookie;background-color:white;>
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>SF Homeless Link</b> 
+    <div class="w3-right w3-hide-small">
+      <a href="#adult shelter systems" class="w3-bar-item" style=background-color:pink;font-family:Cookie;>Shelters</a>
+      <a href="#navigation center programs" class="w3-bar-item" style=background-color:pink;>Centers</a>
+      <a href="#about and contact" class="w3-bar-item" style=background-color:pink;>About/Contact</a>
+    </div>
+  </div>
+</div>
+<style>
+  h5 {
+    font-family:cookie;
+  }
+  p {
+    font-family:cookie;
+  }
+  </style>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;font-family:Cookie;" id="home">
+  <center><img src="https://i.imgur.com/Bsb0MCe.jpg"  alt="bed" width="100%"></center>
+  <div class="w3-display-middle w3-margin-top w3-center">
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- Shelters Section -->
+  <div class="w3-container w3-padding-25" id="adult shelter systems">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-5" style=background-color:pink;font-family:Cookie;><b>Shelters</b></h3>
+     </div>
+      <h5><i><b>Adult Shelter Systems</b></i></h5>
+  
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/P5WWwfL.png" alt="Bethel" style="width:100%" height=370px>
+      <h3>Bethel Women's Adult Shelter</h3>
+      <p class="w3-opacity">Women's Shelter</p>
+      <p><b>916 Laguna Street San Francisco CA 94115</b></p>
+      <p>Bethel's Women's Adult Shelter </p>
+      <p><button class="w3-button w3-light-grey w3-block">(415) 921-4935</button></p>
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://www.homelessshelterdirectory.org/gallery/16362__sve.jpg" alt="Providence Single Adult Shelter" style="width:100%" height=370px>
+      <h3>Providence Single Adult Shelter</h3>
+      <p class="w3-opacity">Single Adult Shelter</p>
+      <p><b>1601 McKinnon Ave San Francisco CA 94124</b></p>
+      <p><button class="w3-button w3-light-grey w3-block">(415) 641-8719</button></p>
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://fastly.4sqi.net/img/general/600x600/488379_4FUMLmlSIV18v5ZhRSmkM5OASHJLQ2920j1d-XCNrpE.jpg" alt="MSC South Shelter & Drop-in Center" style="width:100%"height=370px>
+      <h5>MSC South Shelter & Drop-in Center</h5>
+      <p class="w3-opacity">Adult Shelter</p>
+      <p>525 5th Street San Francisco CA 94107</p>
+      <p><button class="w3-button w3-light-grey w3-block">(415) 597-7960</button></p>   
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://vignette.wikia.nocookie.net/sfhomeless/images/d/d6/Next_door_shelter_at_geary_and_polk.png/revision/latest?cb=20090512183424" alt="Next Door Shelter" style="width:100%"height=370px>
+      <h3>Next Door Shelter</h3>
+      <p class="w3-opacity">Adult Shelter</p>
+      <p>1001 Polk Street San Francisco CA 94109</p>
+      <p><button class="w3-button w3-light-grey w3-block">(415) 487-3300</button></p>
+    </div>
+    
+     <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="http://www.thecross-photo.com/images/The-Episcopal-Sanctuary.jpg" alt="Sanctuary Shelter" style="width:100%"height=370px>
+      <h3>Sanctuary Shelter</h3>
+      <p class="w3-opacity">Adult Shelter</p>
+      <p>201 8th Street San Francisco CA 94103</p>
+      <p><button class="w3-button w3-light-grey w3-block">(415) 487-3300</button></p>
+    </div> 
+  </div>
+    
+  <div>
+    <h5><i><b>Family Shelter Systems</b></i></h5>
+     <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://dev-staging-lw-attachments-paperclip-attachments.s3.amazonaws.com/000/907/961/large/20513672ef09c5ffcdebb9574d1cbaf898457cf5.PNG?1539440693" alt="Harbor House" style="width:97%"height=370px>
+      <h3>Harbor House</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>407 9th Street San Francisco CA 94103</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97">(415) 503-3029</button></p>
+    </div>
+    
+     <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/8YiLeZV.png" alt="Hamilton Family Shelter" style="width:97%"height=370px>
+      <h3>Hamilton Family Shelter</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>260 Golden Gate Ave San Francisco CA 94102</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 292-9930</button></p>
+    </div>
+    
+     <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://images.squarespace-cdn.com/content/v1/59c525f71f318df0b9502323/1537406096049-45USWOBXSVCR4FLM57UF/ke17ZwdGBToddI8pDm48kKmw982fUOZVIQXHUCR1F55Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5XnxLBmEFHJGf_0qFdDpmIncOw4kq9OpCHNTYqzGO-E1YJr-Thht9Tdog4YtCwrE/IMG_8281.jpg?format=1000w" alt="Compass Family Shelter" style="width:97%"height=370px>
+      <h3>Compass Family Shelter</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>626 Polk Street San Francisco CA 94102</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415)644-0504</button></p>
+    </div>
+    
+     <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/0OZqNEE.png" alt="St. Joseph's Family Shelter" style="width:97%"height=370px>
+      <h3>St. Joseph's Family Shelter</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>899 Guerrero Street San Francisco CA 94110</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 550-4478</button></p>
+    </div>
+    
+         <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/f-firstfriendship3-030621.jpg" alt="First Friendship Shelter" style="width:97%"height=370px>
+      <h3>First Friendship Shelter</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>501 Steiner Street San Francisco CA 94117</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 431-4775</button></p>
+    </div>
+
+         <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://s.hdnux.com/photos/01/00/66/70/17002001/13/gallery_medium.jpg" alt="BVHM Stay-Over Program" style="width:97%"height=370px>
+      <h3>BVHM Stay-Over Program</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>938 Valencia Street San Francisco CA 94110</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 695-5881</button></p>
+    </div>
+    
+         <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/T2dJu1z.png" alt="Path Program" style="width:97%"height=370px>
+      <h3>Path Program</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>633 Valencia Street San Francisco CA 94110</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%"> (415) 759-2384</button></p>
+    </div>
+    
+         <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/ZTrIaZh.png" alt="Compass Clara House" style="width:97%"height=370px>
+      <h3>Compass Clara House</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>111 Page Street San Francisco CA 94102</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 863-0681</button></p>
+    </div>
+    
+         <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/crIMAkv.png" alt="Hamilton Families Shelter" style="width:97%"height=370px>
+      <h3>Hamilton Families Shelter</h3>
+      <p class="w3-opacity">Family Shelter</p>
+      <p>1631 Hayes Street San Francisco CA 94117</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 292-9930</button></p>
+    </div>
+  </div>
+
+ 
+  <!-- Centers Section -->
+  <div class="w3-container w3-padding-25" id="navigation center programs">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-5" style=background-color:pink;font-family:Cookie;><b>Centers</b></h3>
+  </div>
+    <h5><i>Navigation Center Programs</i></h5>
+   
+   			 <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="http://hsh.sfgov.org/wp-content/uploads/front-entrance-embarcadero-768x576.png" alt="Division Circle Navigation Center" style="width:97%"height=370px>
+      <h3>Division Circle Navigation Center</h3>
+      <p class="w3-opacity">Navigation Center</p>
+      <p>224 South Van Ness Ave San Francisco CA 94103</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 487-3300</button></p>
+    </div>
+    
+    		 <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/AYMQqVV.png" alt="Central Waterfront" style="width:97%"height=370px>
+      <h3>Central Waterfront</h3>
+      <p class="w3-opacity">Navigation Center</p>
+      <p>600 25th Street San Francisco CA 94107</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 503-3029</button></p>
+    </div>
+    
+     		<div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://static-18.sinclairstoryline.com/resources/media/bc98b9ef-eda5-4b1e-a2b6-14fe47949c3d-large1x1_sfo_navigation_center_01.jpg?1569333429639" alt="Bayshore Navigation Center" style="width:97%"height=370px>
+      <h3>Bayshore Navigation Center</h3>
+      <p class="w3-opacity">Navigation Center</p>
+      <p>125 Bayshore Blvd San Francisco CA 94124</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 292-9930</button></p>
+    </div>
+    
+     		<div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/f.civiccenterhotel.0519.jpg" alt="Civic Center Navigation Center" style="width:97%"height=370px>
+      <h3>Civic Center Navigation Center</h3>
+      <p class="w3-opacity">Navigation Center</p>
+      <p>20 12th Street San Francisco CA 94103</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:97%">(415) 644-0504</button></p>
+    </div>
+    
+    		<div class="w3-col 13 m6 w3-margin-bottom">
+    	<img src="https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/190110-sfe-bryantnavctr-001-1-1.jpg" alt="Bryant Navigation Center" style="width:65%"height=370px>
+      <h3>Bryant Navigation Center</h3>
+      <p class="w3-opacity">Navigation Center</p>
+      <p>680 Bryant Street San Francisco CA 94107</p>
+      <p><button class="w3-button w3-light-grey w3-block"; style="width:50%">(415) 487-3300</button></p>  
+    </div>
+  </div>
+
+ 
+  <!-- About/Contact Section -->
+  <div class="w3-container w3-padding-25" id="about and contact">
+  <h3 class="w3-border-bottom w3-border-light-grey w3-padding-5" style=background-color:pink;font-family:Cookie;><b>About/Contact</b></h3>
+  </div>
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/zb0G4eY.png" alt="Heather" style="width:100%" height=370px>
+      <h3>Heather Liu</h3>
+      <p class="w3-opacity">High School Sophomore</p>
+      <p>Heather is currently a 10th grader at Lowell High School in San Francisco, California. She discovered computer science in elementary school and is currently taking computer science at her high school. She is passionate about raising awareness and fundraising for issues in her local communities. Outisde of school, she enjoys playing volleyball, cooking, traveling, and spending time with friends/family.  </p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://media-exp1.licdn.com/dms/image/C5603AQF9FUtz8sYw4w/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=jP9to0fWn0sV-EMUQp_mlivDhJHuNzSvoYiWeqdbSw0" alt="Gabriella" style="width:100%" height=370px>
+      <h3>Gabriella Quach</h3>
+      <p class="w3-opacity">High School Junior</p>
+      <p>Gabby is a junior at Lowell High School in San Francisco, California. She discovered computer science in middle school and is taking APCS Java along with programming classes at City College of San Francisco. She has played volleyball for the past nine years, one of those on Lowell's Varsity team. She hopes to continue volunteering at various hospitals to make change in her community.  </p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="https://i.imgur.com/I8hPZVu.jpg" alt="Nadine" style="width:100%"height=370px>
+      <h3>Nadine Ordaz</h3>
+      <p class="w3-opacity">College Freshman</p>
+      <p>Nadine is currently a first-year college student majoring in cognitive science. She has had an interest in computer science and artificial intelligence since she first learned about it in junior high and became further fascinated with the topics when she attended a summer mathematics camp held on UC Berkeley's campus. Her dream career is to head a program at NASA and provide mentors/scholarships for women of color in STEM.</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+  </div>
+
+
+<!-- Image of location/map -->
+<div class="w3-container">
+  <img src="https://i.imgur.com/e9FcEB6.png" class="w3-image" style="width:100%">
+</div>
+
+<!-- End page content -->
+<div>
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <p>Programmed in HTML at Superposition IV in San Francisco, California</p>
+</footer>   
+    
+</body>
+</html>
